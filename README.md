@@ -1,16 +1,40 @@
-# ilet
+**IELTS Preparation App**
+A modern and user-friendly IELTS preparation mobile application built using Flutter and Dart, integrated with Firebase Authentication for secure user management. This app allows users to sign up, log in, manage their profile, and access structured IELTS courses to prepare for the test effectively.
 
-A new Flutter project.
+✨ Features
+🔐 Firebase Authentication
+Secure sign-in and sign-up using email and password.
 
-## Getting Started
+👤 User Profile Section
+View and update personal information
+Upload profile picture
 
-This project is a starting point for a Flutter application.
+Track course progress
 
-A few resources to get you started if this is your first Flutter project:
+🎓 Courses Section
+Browse structured IELTS preparation materials
+Access Listening, Reading, Writing, and Speaking modules
+View lessons, tips, and practice questions
+Track progress and completion
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📝 Practice Tests & Quizzes (optional/coming soon)
+Interactive practice tests to simulate real exam conditions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌐 Responsive UI
+Clean, responsive interface built with Flutter, optimized for both Android and iOS devices.
+
+🔥 Firebase Backend
+Firebase Auth for user management
+Firestore for storing course data and user progress
+Firebase Storage for profile image uploads
+
+🛠️ Tech Stack
+Frontend: Flutter (Dart)
+Backend/Database: Firebase (Authentication, Firestore, Storage)
+
+🚀 Getting Started
+Prerequisites
+Flutter SDK installed
+Firebase project set up
+Android Studio or VSCode
+
